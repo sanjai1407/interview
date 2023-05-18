@@ -1,0 +1,59 @@
+#title{
+   margin-top: 5%;
+   margin-left: 40%;
+   font-family: sans-serif;
+   font-weight: 100;
+}
+#head{
+   margin-left: 38%;
+   margin-bottom: 5%;
+   font-family: sans-serif;
+}
+#ticket{
+   margin-left: 25%;
+}
+#in{
+   padding: 10px 60px;
+   color: rgb(212, 212, 212);
+}
+#pic{
+   position: absolute;
+   left: 26%;
+   top: 38.5%;
+}
+#option{
+   display: inline-block;
+}
+#input{
+   display: inline-block;
+}
+#ticket{
+   display: inline-block;
+}
+#op{
+   display: inline-block;
+}
+#mobile{
+   display: inline-block;
+   margin-left: 2%;
+}
+#same{
+   padding-left: 7%;
+}
+#phone{
+   padding: 10px 40px;
+   margin-left: 10%;
+}
+#option{
+   padding: 10px 2px;
+   margin-left: 48%;
+}
+#bu{
+   padding: 10px 40px;
+   margin-top: 5%;
+   margin-left: 43%;
+   background-color: rgb(70, 70, 246);
+   color: white;
+   border-radius: 10px;
+   border: none;
+}

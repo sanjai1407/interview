@@ -1,0 +1,279 @@
+*{
+   margin: 0px;
+   padding: 0px;
+}
+.icon{
+   display: inline-block;
+   position: absolute;
+}
+
+.home{
+   display: inline-block;
+   padding: 2%;
+   color: white;
+   padding-left: 35%;
+   text-decoration-style: none;
+}
+.card{
+   display: inline-block;
+   text-decoration: none;
+   padding: 2%;
+   color: white;
+}
+.fav{
+   color: white;
+   display: inline-block;
+   text-decoration: none;
+   padding: 2%;
+}
+.order{
+   padding: 2%;
+   color: white;
+   display: inline-block;
+   padding-right: 15%;
+}
+.login{
+   color: white;
+   display: inline-block;
+   text-decoration: none;
+   padding: 2%;
+}
+.signup{
+   display: inline-block;
+   text-decoration: none;
+   padding: 10px 30px;
+   border-radius: 10px;
+   border:none;
+   color: rgb(255, 255, 255);
+   background-color: blue;
+
+}
+
+.body1{
+   text-align: center;
+   padding-top: 5%;
+}
+
+.body2{
+   text-align: center;
+   margin-top: 3%;
+}
+.email{
+   padding: 15px 320px;
+   margin-left: 32%;
+   margin-top: 3%;
+   padding-left: 2%;
+   border-radius: 15px;
+   position: absolute;
+   border-style: solid;
+}
+.start{
+   padding: 15px 30px;
+   position: absolute;
+   margin-top: 43px;
+   border: none;
+   border-radius: 15px;
+   background-color: blue;
+   color: white;
+   margin-left: 59.5%;
+}
+
+.body{
+   background-color: white;
+}
+.body0{
+   background-image: url(./Free-Travel-Backgrounds-Download-HD.jpg);
+   background-size:cover;
+   padding-bottom: 25%;
+}
+a{
+   text-decoration: none;
+   font-size: large;
+}
+
+a:link {color: rgb(255, 0, 0), 0, 0;}
+a:visited { color: rgb(0, 0, 0); }
+a:hover { color: rgb(255, 0, 0);}
+a:active { color: green;}
+
+.body3{
+   padding-top: 2%;
+   background-color: white;
+   margin-top: 15%;
+   background-size: cover;
+   font-family: sans-serif;
+   padding-bottom: 2%;
+}
+p{
+   color: rgb(91, 91, 91);
+}
+
+.body4{
+   padding-left: 5%;
+   margin-bottom: 2%;
+}
+.body5{
+   padding-left: 10%;
+   padding-bottom: 10%;
+
+}
+
+.tem{
+   width: 300px;
+   height: 250px;
+   background-size: cover;
+   position: relative;
+   animation-name: example;
+   animation-duration: 4s;
+   animation-iteration-count: infinite;
+   background-image: url(./023a67ea64854ace709188cfd4106866-bdchk.webp);
+   background-image: url(./110cb202dfc3f384a9f0f4d1a84f9d77-ovcos.webp);
+   background-image: url(./5922fe1180d07e7c629bb32f86331ed2-lbqmw.webp);
+   background-image: url(./9383e44caaae2e36fe140e6062ca0bd5-elvlj.webp);
+   background-image: url(./95263806e3e9188c7281052863c6c748-ujvbi.webp);
+   background-image: url(./b89367c584b384b35d8d2b36dbef2902-cukya.webp);
+   background-image: url(./b92c9f70ed60f51f5483f60666347809-pmlea.webp);
+   background-image: url(./d434f68d4107ffa0251fd69f3cb082bd-nqchi.webp);
+   background-image: url(./e43e3737e8db646e2e8f24a5e223ef67-owsqm.webp);
+   background-image: url(./f307be07cd117f9a2871a80582e94f8c-uhzbh.webp);
+   margin-top: 5%;
+   margin-bottom: 5%;
+}
+
+@keyframes example{
+   10% {background-image: url(./023a67ea64854ace709188cfd4106866-bdchk.webp);left: 0px;top: 0px;}
+   20% {background-image: url(./110cb202dfc3f384a9f0f4d1a84f9d77-ovcos.webp);left: 200px;top: 0px;}
+   30% {background-image: url(./5922fe1180d07e7c629bb32f86331ed2-lbqmw.webp);left: 400px;top: 0px;}
+   40% {background-image: url(./9383e44caaae2e36fe140e6062ca0bd5-elvlj.webp);left: 600px;top: 0px;}
+   50% {background-image: url(./95263806e3e9188c7281052863c6c748-ujvbi.webp);left: 700px;top: 0px;}
+   60% {background-image: url(./b89367c584b384b35d8d2b36dbef2902-cukya.webp);left: 800px;top: 0px;}
+   70% {background-image: url(./b92c9f70ed60f51f5483f60666347809-pmlea.webp);left: 900px;top: 0px;}
+   80% {background-image: url(./d434f68d4107ffa0251fd69f3cb082bd-nqchi.webp);left: 1050px;top: 0px;}
+   90% {background-image: url(./e43e3737e8db646e2e8f24a5e223ef67-owsqm.webp);left: 0px;top: 0px;}
+   100% {background-image: url(./f307be07cd117f9a2871a80582e94f8c-uhzbh.webp);left: 200px;top: 0px;}
+}
+
+.offer{
+   text-align: center;
+   background-color: white;
+   padding-top: 10%;
+   padding-bottom: 5%;
+}
+.pic{
+   position: absolute;
+   background-size:contain;
+   padding-top: 15%;
+   background-blend-mode: multiply;
+}
+
+.question{
+   text-align: center;
+   background-color: white;
+   padding-bottom: 5%;
+   background-size:contain;
+}
+
+.q1{
+   color: rgb(0, 0, 0);
+   padding: 10px 161px;
+   background-color: rgb(205, 205, 205);
+   border-radius: 10px;
+   margin: 2%;
+   border: none;
+}
+.q2{
+   margin: 2%;
+   color: rgb(0, 0, 0);
+   padding: 10px 120px;
+   background-color:  rgb(205, 205, 205);
+   border-radius: 10px;
+   border: none;
+}
+.q3{
+   border: none;
+   margin: 2%;
+   color: rgb(0, 0, 0);
+   padding: 10px 170px;
+   background-color:  rgb(205, 205, 205);
+   border-radius: 10px;
+}
+.q4{
+   border: none;
+   margin: 2%;
+   color: rgb(0, 0, 0);
+   padding: 10px 186px;
+   background-color:  rgb(205, 205, 205);
+   border-radius: 10px;
+}
+
+.hea{
+   padding-left: 5%;
+}
+
+.img{
+   position: absolute;
+   top: 95%;
+   left: 60%;
+}
+
+.footer{
+   background-color: black;
+   padding: 150px 600px;
+   padding-top: 5%;
+}
+.face{
+   position: absolute;
+   left: 7%;
+   height: 70px;
+   width: 70px;
+}
+
+.fot{
+   color: white;
+   position: absolute;
+   right: 5%;
+}
+
+.twit{
+      position: absolute;
+      left: 15%;
+      height: 70px;
+      width: 70px;
+      padding-bottom: 5%;
+}
+#option1{
+   background-color: gray;
+   border: none;
+   padding: 10px 45px;
+   border-radius: 10px;
+   margin-bottom: 2%;
+   margin-top: 5%;
+   color: white;
+}
+
+#option2{
+   color: white;
+   background-color: gray;
+   border: none;
+   padding: 10px 130px;
+   border-radius: 10px;
+   margin-bottom: 2%;
+}
+
+#option3{
+   color: white;
+   background-color: gray;
+   border: none;
+   padding: 10px 153px;
+   border-radius: 10px;
+   margin-bottom: 2%;
+}
+
+#option4{
+   background-color: gray;
+   border: none;
+   padding: 10px 210px;
+   border-radius: 10px;
+   margin-bottom: 2%;
+   color: white;
+}

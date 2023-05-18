@@ -1,0 +1,63 @@
+.box{
+   border: none;
+   margin-left: 30%;
+   margin-top: 6%;
+   margin-right: 30%;
+   padding-top: 15px;
+   padding-bottom: 15px;
+   padding-left: 20px;
+   padding-bottom: 5%;
+   font-size: large;
+   border-radius: 10px;
+   background-color: rgba(255, 255, 255, 0.455);
+   margin-bottom: 10%;
+}
+
+.head{
+   padding-left: 27%;
+   margin-top: 10%;
+}
+.back{
+   background-image: url(./hd-wallpaper-gc43aa27d7_1920.jpg);
+   background-size: cover;
+   margin-top: 5%;
+}
+
+.otp{
+   padding: 10px 50px;
+   border-radius: 20px;
+   margin-top: 5%;
+   margin-left: 23%;
+   border: none;
+}
+
+
+.password{
+   padding: 10px 50px;
+   border-radius: 20px;
+   margin-top: 5%;
+   margin-left: 23%;
+   border: none;
+}
+
+.confirm{
+   border: none;
+   margin-top: 5%;
+   padding: 10px 50px;
+   border-radius: 20px;
+   margin-left: 23%;
+}
+
+.button{
+   border: none;
+   margin-top: 5%;
+   padding: 10px 80px;
+   border-radius: 20px;
+   background-color: blue;
+   color: white;
+   margin-left: 23%;
+}
+
+.head1{
+   padding-left: 10%;
+}

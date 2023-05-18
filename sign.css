@@ -1,0 +1,71 @@
+#table{
+   background-color: rgba(238, 238, 238, 0.571);
+   margin-left: 30%;
+   margin-right: 30%;
+   padding-top: 2%;
+   padding-bottom: 5%;
+   border-radius: 10px;
+   margin-top: 5%;
+   font-family: sans-serif;
+}
+.back{
+   background-image: url(./ribblehead-viaduct-g6b2f90396_1920.jpg);
+   background-size: cover;
+}
+
+input{
+   padding: 10px 50px;
+   margin-bottom: 5%;
+   border-radius: 20px;
+   outline: none;
+   border: none;
+   border-bottom: 1px silver solid;
+   margin-left: 25%;
+}
+#create{
+   padding: 10px 100px;
+   margin-bottom: 5%;
+   border-radius: 20px;
+   border: none;
+   background-color: rgb(67, 67, 255);
+   color: white;
+   margin-left: 23%;
+}
+#google{
+   padding: 10px 90px;
+   margin-bottom: 5%;
+   border-radius: 20px;
+   border: none;
+   background-color: rgb(255, 255, 255);
+   margin-left: 22%;
+}
+#pic{
+   position: absolute;
+   left: 42%;
+}
+h2{
+   padding-left: 25%;
+}
+h5{
+   padding-left: 25%;
+}
+
+span{
+   position: absolute;
+   right: 15px;
+   transform: translate(0,15%);
+   top: 47.5%;
+   left: 56%;
+   cursor: pointer;
+}
+
+.fa{
+   font-size: 20px;
+   color: #7a797e;
+}
+.he{
+   padding-left: 30%;
+}
+.head{
+   padding-left: 28%;
+}

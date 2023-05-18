@@ -1,0 +1,144 @@
+#Offers{
+   color: black;
+   padding-bottom: 5%;
+   border: 2px;
+   font-size: large;
+   font-weight: 400;
+   display: inline-block;
+   padding-right: 25px;
+   margin-left: 69%;
+   margin-top: 2%;
+}
+#Get{
+   color: rgb(0, 0, 0);
+   padding-right: 25px;
+   padding-bottom: 5%;
+   border: 2px;
+   font-size: large;
+   font-weight: 400;
+   display: inline-block;
+}
+#Booking{
+   color: rgb(0, 0, 0);
+   padding-right: 25px;
+   padding-bottom: 5%;
+   border: 2px;
+   font-size: large;
+   font-weight: 400;
+   display: inline-block;
+}
+#profile{
+   display: inline-block;
+   padding-left: 26%;
+   position: absolute;
+   top: 20px;
+}
+#box1{
+   border: 1px black solid;
+   padding: 30px 70px;
+   background-color: white;
+   margin-right: 10%;
+   margin-left: 10%;
+   border-radius: 10px;
+}
+#bus{
+   display: inline-block;
+   padding-right: 5%;
+   padding-left: 5%;
+}
+#time{
+   display: inline-block;
+   padding-right: 5%;
+}
+#during{
+   display: inline-block;
+   padding-right: 5%;
+}
+#Arrive{
+   display: inline-block;
+   padding-right: 5%;
+}
+#rating{
+   display: inline-block;
+   padding-right: 5%;
+}
+#amount{
+   display: inline-block;
+   padding-right: 5%;
+}
+#seats{
+   display: inline-block;
+   padding-right: 5%;
+}
+#pic{
+   display: inline-block;
+   position: absolute;
+}
+#background{
+   background-image: url(./05.jpg);
+   background-size: cover;
+}
+#box2{
+   border: 1px black solid;
+   padding: 30px 70px;
+   margin-right: 10%;
+   margin-left: 10%;
+   margin-bottom: 3%;
+   border-radius: 10px;
+   margin-top: 3%;
+   background-color: white;
+}
+#box3{
+   border: 1px black solid;
+   padding: 30px 70px;
+   border-radius: 10px;
+   background-color: white;
+   margin-right: 10%;
+   margin-left: 10%;
+}
+#Buses{
+   display: inline-block;
+   padding-left: 15%;
+}
+#SORT{
+   display: inline-block;
+   padding-left: 5%;
+}
+#Departure{
+   display: inline-block;
+   padding-left: 5%;
+}
+#Duration{
+   display: inline-block;
+   padding-left: 5%;
+}
+#Arrival{
+   display: inline-block;
+   padding-left: 5%;
+}
+#Ratings{
+   display: inline-block;
+   padding-left: 5%;
+}
+#Fare{
+   display: inline-block;
+   padding-left: 5%;
+}
+#Seats{
+   display: inline-block;
+   padding-left: 5%;
+}
+#all{
+   padding-left: 15%;
+}
+button{
+   padding: 10px 40px;
+   background-color: cadetblue;
+   color: white;
+   border-radius: 10px;
+}
+#all{
+   font-family: sans-serif;
+   font-weight: 700;
+   color:#000000;
+}

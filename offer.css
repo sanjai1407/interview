@@ -1,0 +1,84 @@
+#head{
+   margin-bottom: 5%;
+   margin-left: 45%;
+   margin-top: 2%;
+}
+/* #box1{
+   border: 1px black solid;
+   padding: 10px;
+   margin-left: 30%;
+   display: inline-block;
+}
+
+#box2{
+   border: 1px black solid;
+   padding: 10px;
+   margin-left: 2%;
+   display: inline-block;
+   margin-bottom: 5%;
+} */
+
+#box3{
+   border: 1px black solid;
+   padding: 30px 50px;
+   margin-left: 10%;
+   display: inline-block;
+}
+
+#box4{
+   border: 1px black solid;
+   padding: 30px 50px;
+   margin-left: 2%;
+   display: inline-block;
+}
+
+#box5{
+   border: 1px black solid;
+   padding: 30px 50px;
+   margin-left: 2%;
+   margin-bottom: 5%;
+   display: inline-block;
+}
+
+#box6{
+   border: 1px black solid;
+   padding: 30px 50px;
+   margin-left: 25%;
+   display: inline-block;
+}
+
+#box7{
+   border: 1px black solid;
+   padding: 30px 50px;
+   margin-left: 2%;
+   display: inline-block;
+}
+#SUPERHIT{
+   font-size: small;
+   color: gray;
+   padding-left: 55%;
+}
+
+#code{
+   font-size: small;
+   color: gray;
+   padding-left: 55%;
+}
+
+#FIRST{
+   font-size: small;
+   color: gray;
+   padding-left: 55%;
+}
+
+#Use{
+   font-size: small;
+   color: gray;
+   padding-left: 55%;
+}
+
+#APSRTCNEW{
+   font-size: small;
+   color: gray;
+   padding-left: 50%;
+}

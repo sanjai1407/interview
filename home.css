@@ -1,0 +1,80 @@
+#home{
+   padding-bottom: 5%;
+   border: 2px;
+   font-size: large;
+   font-weight: 400;
+   text-decoration: none;
+   display: inline-block;
+   padding-left: 40%;
+   padding-right: 25px;
+   margin-top: 15px;
+   text-decoration: none;
+}
+#Features{
+   color: black;
+   padding-bottom: 5%;
+   border: 2px;
+   font-size: large;
+   font-weight: 400;
+   display: inline-block;
+   padding-right: 25px;
+}
+#Aboutus{
+   color: rgb(0, 0, 0);
+   padding-right: 25px;
+   padding-bottom: 5%;
+   border: 2px;
+   font-size: large;
+   font-weight: 400;
+   display: inline-block;
+}
+#YourCart{
+   color: rgb(0, 0, 0);
+   padding-right: 25px;
+   padding-bottom: 5%;
+   border: 2px;
+   font-size: large;
+   font-weight: 400;
+   display: inline-block;
+}
+#profile{
+   display: inline-block;
+   padding-left: 35%;
+   position: absolute;  
+}
+#body{
+   color: white;
+   font-size:large;
+   border-radius: 80px;
+}
+#heading{
+   color: white;
+   font-size:xx-large
+}
+#background{
+   background-image: url(./0.jpg);
+   background-size: cover;
+}
+#pic{
+   position: absolute;
+}
+#heading{
+   color: #213a73;
+   margin-left: 10%;
+   font-size: larger;
+}
+#From{
+   display: inline-block;
+   font-size: large;
+   padding-left: 35%;
+   padding-top: 10%;
+}
+#To{
+   display: inline-block;
+}
+#date{
+   display: inline-block;
+}
+#button{
+   display: inline-block;
+}

@@ -1,0 +1,144 @@
+#box{
+   border: 1px black solid;
+   margin-left: 30%;
+   margin-top: 5%;
+   margin-right: 30%;
+   padding-top: 15px;
+   padding-bottom: 15px;
+   padding-left: 20px;
+   padding-bottom: 5%;
+   font-size: large;
+   border-radius: 10px;
+   background-color: white;
+   margin-bottom: 10%;
+}
+#background{
+   background-image: url(./sunrise-geb7997715_1920.jpg);
+}
+#User{
+   padding-bottom:  1px;;
+   margin-left: 20%;
+   margin-top: 5%;
+   height: 20px;
+   margin-bottom: 5%;
+   font-size: smaller;
+   font-family: sans-serif;
+}
+input[type="text"]{
+   padding: 7px 50px;
+   border: 1px black solid;
+   outline: none;
+   border: none;
+   border-bottom: 1px silver solid;
+}
+input[type="password"]{
+   padding: 7px 50px;
+   border: 1px black solid;
+   outline: none;
+   border: none;
+   border-bottom: 1px silver solid;
+}
+#pass{
+   padding-bottom: 2%;
+   margin-left: 20%;
+   font-family: sans-serif;
+}
+#but{
+   padding-bottom: 5%;
+   margin-left: 15%;
+}
+#ForgetPassword{
+   padding-bottom: 2%;
+   padding-left: 50%;
+   padding: auto;
+   font-size: small;
+   display: inline-block;
+}
+#google{
+   padding-bottom: 5%;
+   margin-left: 15%;
+}
+::placeholder{
+   padding: 10px;
+}
+#button{
+   padding: 10px 30%;
+   margin-left: 6%;
+   background-color: #006699;
+   color: white;
+   border-radius: 20px;
+   margin-top: 5%;
+   border: 1px black solid;
+}
+#google{
+   margin-left: 20%;
+}
+
+#pic{
+   position: absolute;
+   left: 42%;
+   
+}
+#go{
+   padding: 10px 23%;
+   background-color: #ffffff;
+   border-radius: 20px;
+   border: 1px black solid;
+}
+#header{
+   font-size: small;
+   padding-left: 35%;
+   color: gray;
+   font-family: sans-serif;
+}
+#pass{
+   font-size: smaller;
+   padding-top: 2%;
+}
+#head{
+   padding-left: 26%;
+}
+#icon{
+   position: absolute;
+   left: 40%;
+   bottom: 61%;
+}
+#ic{
+   position: absolute;
+   left: 40%;
+   bottom: 51%;
+}
+#footer{
+   font-size: smaller;
+   padding-left: 30%;
+}
+#on{
+   position: absolute;
+   right: 43%;
+   top: 18.2em;
+}
+#para{
+   color: red;
+   font-size: small;
+   padding-left: 20%;
+}
+#Show{
+   font-size: small;
+   display: inline-block;
+   padding-left: 20%;
+}
+
+span{
+   position: absolute;
+   right: 15px;
+   transform: translate(0,15%);
+   top: 46%;
+   left: 56%;
+   cursor: pointer;
+}
+
+.fa{
+   font-size: 20px;
+   color: #7a797e;
+}
+
