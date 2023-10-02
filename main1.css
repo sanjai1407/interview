@@ -65,7 +65,7 @@
    padding-left: 2%;
    border-radius: 15px;
    position: absolute;
-   border-style: none;
+   border: none;
 }
 .start{
    padding: 15px 30px;
@@ -75,7 +75,7 @@
    border-radius: 15px;
    background-color: blue;
    color: white;
-   margin-left: 40%;
+   margin-left: 20%
 }
 
 .body{
